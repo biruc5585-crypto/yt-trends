@@ -1,0 +1,4 @@
+# Apne niche ke competitor / pasandida channels ke link yahan daalo, har line mein ek.
+# Example:
+# https://www.youtube.com/@channelname
+# Khali chhodoge to sirf niche-queries.txt wali search chalegi.
